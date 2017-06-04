@@ -1,0 +1,97 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {italian}
+\defcounter {refsection}{0}\relax 
+\select@language {italian}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}L'Azienda}{1}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}IKS}{1}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Profilo dell'azienda}{2}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.1}Servizi e prodotti offerti}{2}{subsection.1.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.2}Struttura organizzativa}{6}{subsection.1.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.3}Processi aziendali}{6}{subsection.1.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Rapporto con l'innovazione}{8}{section.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}L'azienda e gli stage}{11}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Il valore aggiunto di uno stagista}{12}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Alcuni temi di stage}{12}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}AIOps e Machine Learning}{12}{subsection.2.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}DevOps Automazione}{12}{subsection.2.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.3}Sviluppo moduli evolutivi in ambito antifrode}{12}{subsection.2.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Il progetto proposto}{13}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.1}Motivazioni}{13}{subsection.2.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.2}Obiettivi aziendali}{15}{subsection.2.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.3}Obiettivi personali}{16}{subsection.2.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Piano di lavoro}{17}{section.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Vincoli}{17}{section.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.1}Vincoli temporali}{17}{subsection.2.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.2}Vincoli tecnologici}{18}{subsection.2.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Lo svolgimento dello stage}{21}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Metodo di lavoro}{21}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Attivit\IeC {\`a} di formazione}{21}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Analisi dei requisiti}{21}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.1}Classificazione dei requisiti}{21}{subsection.3.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.2}Requisiti}{21}{subsection.3.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.2.1}Funzionali}{21}{subsubsection.3.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.2.2}Non funzionali}{21}{subsubsection.3.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Progettazione e realizzazione}{21}{section.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.1}Scelte progettuali}{21}{subsection.3.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.2}Visione architetturale a microservizi}{21}{subsection.3.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.3}Codifica}{21}{subsection.3.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.4}Test}{21}{subsection.3.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.4.4.1}Test di carico}{21}{subsubsection.3.4.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.4.4.2}Test di durata}{21}{subsubsection.3.4.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Valutazioni retrospettive}{23}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Obiettivi raggiunti}{23}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Problematiche riscontrate}{23}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Bilancio formativo}{23}{section.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.1}Il prima}{23}{subsection.4.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.2}Il dopo}{23}{subsection.4.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Valutazione critica del Corso di Laurea}{23}{section.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Glossario}{25}{section*.26}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Acronimi}{27}{section*.28}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Riferimenti}{29}{chapter*.30}
