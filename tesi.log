@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.5.16)  3 JUN 2017 16:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.5.16)  7 JUN 2017 16:38
 entering extended mode
 **./tesi.tex
 (tesi.tex
@@ -1500,7 +1500,7 @@ gi-ne trat-ta da: http://bit.ly/2qNXKxj. [][]
 \openout10 = `tesi.lot'.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1057) has occurred while \output is active []
 
  [7
 
@@ -1528,7 +1528,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--84
 
  []
 
-<immagini/risk-management.png, id=206, 616.3025pt x 616.3025pt>
+<immagini/risk-management.png, id=210, 616.3025pt x 616.3025pt>
 File: immagini/risk-management.png Graphic file (type png)
 
 <use immagini/risk-management.png>
@@ -1540,7 +1540,7 @@ Underfull \hbox (badness 2384) in paragraph at lines 93--93
  Im-ma-gi-ne trat-ta da:
  []
 
-<immagini/audit-management.png, id=207, 526.96875pt x 178.6675pt>
+<immagini/audit-management.png, id=211, 526.96875pt x 178.6675pt>
 File: immagini/audit-management.png Graphic file (type png)
 
 <use immagini/audit-management.png>
@@ -1548,7 +1548,7 @@ Package pdftex.def Info: immagini/audit-management.png used on input line 105.
 (pdftex.def)             Requested size: 293.71745pt x 99.58464pt.
  [2 <./immagini/risk-management.png (PNG copy)> <./immagini/audit-management.pn
 g>]
-<immagini/firewall.png, id=215, 259.97125pt x 194.7275pt>
+<immagini/firewall.png, id=219, 259.97125pt x 194.7275pt>
 File: immagini/firewall.png Graphic file (type png)
 
 <use immagini/firewall.png>
@@ -1559,7 +1559,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
  []
 
-<immagini/business-continuity.png, id=216, 225.84375pt x 225.84375pt>
+<immagini/business-continuity.png, id=220, 225.84375pt x 225.84375pt>
 File: immagini/business-continuity.png Graphic file (type png)
 
 <use immagini/business-continuity.png>
@@ -1567,7 +1567,7 @@ Package pdftex.def Info: immagini/business-continuity.png used on input line 13
 6.
 (pdftex.def)             Requested size: 142.27196pt x 142.26378pt.
  [3 <./immagini/firewall.png> <./immagini/business-continuity.png>]
-<immagini/virtualization.png, id=221, 276.03125pt x 183.68625pt>
+<immagini/virtualization.png, id=225, 276.03125pt x 183.68625pt>
 File: immagini/virtualization.png Graphic file (type png)
 
 <use immagini/virtualization.png>
@@ -1578,7 +1578,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 160--161
 
  []
 
-<immagini/itil.png, id=222, 803.0pt x 803.0pt>
+<immagini/itil.png, id=226, 803.0pt x 803.0pt>
 File: immagini/itil.png Graphic file (type png)
  <use immagini/itil.png>
 Package pdftex.def Info: immagini/itil.png used on input line 169.
@@ -1588,7 +1588,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 191--192
 
  []
 
-<immagini/monolith-microservice.png, id=229, 294.09875pt x 172.645pt>
+<immagini/monolith-microservice.png, id=233, 294.09875pt x 172.645pt>
 File: immagini/monolith-microservice.png Graphic file (type png)
 
 <use immagini/monolith-microservice.png>
@@ -1606,14 +1606,14 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-<immagini/organigramma.png, id=237, 963.6pt x 722.7pt>
+<immagini/organigramma.png, id=241, 963.6pt x 722.7pt>
 File: immagini/organigramma.png Graphic file (type png)
 
 <use immagini/organigramma.png>
 Package pdftex.def Info: immagini/organigramma.png used on input line 267.
 (pdftex.def)             Requested size: 303.4915pt x 227.62204pt.
  [6] [7 <./immagini/organigramma.png (PNG copy)>] <immagini/relazione-responsab
-ilita.png, id=247, 963.6pt x 722.7pt>
+ilita.png, id=251, 963.6pt x 722.7pt>
 File: immagini/relazione-responsabilita.png Graphic file (type png)
 
 <use immagini/relazione-responsabilita.png>
@@ -1621,7 +1621,7 @@ Package pdftex.def Info: immagini/relazione-responsabilita.png used on input li
 ne 321.
 (pdftex.def)             Requested size: 265.5569pt x 199.16928pt.
  [8 <./immagini/relazione-responsabilita.png (PNG copy)>]
-<immagini/innovation-management.png, id=252, 482.2818pt x 321.8424pt>
+<immagini/innovation-management.png, id=256, 482.2818pt x 321.8424pt>
 File: immagini/innovation-management.png Graphic file (type png)
 
 <use immagini/innovation-management.png>
@@ -1633,83 +1633,91 @@ Package pdftex.def Info: immagini/innovation-management.png used on input line
 ]
 Capitolo 2.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [11]
-Overfull \hbox (6.02104pt too wide) in paragraph at lines 62--64
+Overfull \hbox (6.02104pt too wide) in paragraph at lines 37--39
 []\T1/cmr/m/n/10 (-20) Sviluppo di ap-pli-ca-zio-ni ba-sa-te su web, [][][]Clou
 d[][], mo-bi-le o mi-gra-zio-ne su [][][]Cloud[][]/mobile
  []
 
-[12] <immagini/devops-wc.png, id=277, 643.6547pt x 335.00156pt>
+[11] [12] <immagini/devops-wc.png, id=281, 643.6547pt x 335.00156pt>
 File: immagini/devops-wc.png Graphic file (type png)
 
 <use immagini/devops-wc.png>
-Package pdftex.def Info: immagini/devops-wc.png used on input line 120.
+Package pdftex.def Info: immagini/devops-wc.png used on input line 84.
 (pdftex.def)             Requested size: 218.66292pt x 113.81102pt.
 
-<immagini/devops-pipeline.png, id=278, 583.75232pt x 319.1925pt>
+<immagini/devops-pipeline.png, id=282, 583.75232pt x 319.1925pt>
 File: immagini/devops-pipeline.png Graphic file (type png)
 
 <use immagini/devops-pipeline.png>
-Package pdftex.def Info: immagini/devops-pipeline.png used on input line 137.
+Package pdftex.def Info: immagini/devops-pipeline.png used on input line 113.
 (pdftex.def)             Requested size: 208.1376pt x 113.81102pt.
- [13 <./immagini/devops-wc.png>]
-<immagini/microservice-example.png, id=284, 1115.16624pt x 952.55875pt>
+ [13 <./immagini/devops-wc.png> <./immagini/devops-pipeline.png>]
+<immagini/microservice-example.png, id=288, 1115.16624pt x 952.55875pt>
 File: immagini/microservice-example.png Graphic file (type png)
 
 <use immagini/microservice-example.png>
 Package pdftex.def Info: immagini/microservice-example.png used on input line 1
-60.
+38.
 (pdftex.def)             Requested size: 166.53603pt x 142.26378pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--161
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 [][]|\T1/cmr/m/n/9 (+20) Esem-pio di un si-ste-ma a mi-cro-ser-vi-zi. Im-ma-gi-
 ne trat-ta da:
  []
 
 
-Underfull \vbox (badness 6625) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14 <./immagini/devops-pipeline.png>]
-<immagini/richardson-microservices.png, id=289, 1027.84pt x 633.36626pt>
+ [14]
+<immagini/richardson-microservices.png, id=293, 1027.84pt x 633.36626pt>
 File: immagini/richardson-microservices.png Graphic file (type png)
 
 <use immagini/richardson-microservices.png>
 Package pdftex.def Info: immagini/richardson-microservices.png used on input li
-ne 176.
+ne 152.
 (pdftex.def)             Requested size: 277.03432pt x 170.71652pt.
-
-Underfull \vbox (badness 1377) has occurred while \output is active []
-
- [15 <./immagini/microservice-example.png>] [16 <./immagini/richardson-microser
-vices.png>]
-[17] <immagini/docker-architecture.png, id=310, 1204.5pt x 737.75626pt>
+ [15 <./immagini/microservice-example.png> <./immagini/richardson-microservices
+.png>] [16]
+<immagini/docker-architecture.png, id=306, 1204.5pt x 737.75626pt>
 File: immagini/docker-architecture.png Graphic file (type png)
 
 <use immagini/docker-architecture.png>
-Package pdftex.def Info: immagini/docker-architecture.png used on input line 28
-1.
+Package pdftex.def Info: immagini/docker-architecture.png used on input line 25
+6.
 (pdftex.def)             Requested size: 278.72006pt x 170.71652pt.
- [18 <./immagini/docker-architecture.png (PNG copy)>]
-<immagini/kube-architecture.png, id=315, 896.59969pt x 653.44125pt>
+ [17] [18 <./immagini/docker-architecture.png (PNG copy)>]
+<immagini/kube-architecture.png, id=316, 896.59969pt x 653.44125pt>
 File: immagini/kube-architecture.png Graphic file (type png)
 
 <use immagini/kube-architecture.png>
-Package pdftex.def Info: immagini/kube-architecture.png used on input line 301.
+Package pdftex.def Info: immagini/kube-architecture.png used on input line 278.
 
 (pdftex.def)             Requested size: 234.23225pt x 170.71652pt.
- [19 <./immagini/kube-architecture.png>])
-(capitoli/capitolo-3.tex [20]
+
+<immagini/es-cluster.png, id=317, 443.256pt x 188.3838pt>
+File: immagini/es-cluster.png Graphic file (type png)
+
+<use immagini/es-cluster.png>
+Package pdftex.def Info: immagini/es-cluster.png used on input line 298.
+(pdftex.def)             Requested size: 267.78856pt x 113.81102pt.
+ [19 <./immagini/kube-architecture.png>]
+<immagini/dipendenze-es.png, id=322, 666.99188pt x 95.6072pt>
+File: immagini/dipendenze-es.png Graphic file (type png)
+
+<use immagini/dipendenze-es.png>
+Package pdftex.def Info: immagini/dipendenze-es.png used on input line 312.
+(pdftex.def)             Requested size: 297.74168pt x 42.67912pt.
+ [20 <./immagini/es-cluster.png> <./immagini/dipendenze-es.png>]) (capitoli/cap
+itolo-3.tex [21] [22
+
+]
 Capitolo 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
-) (capitoli/capitolo-4.tex [21
-
-] [22
+) (capitoli/capitolo-4.tex [23] [24
 
 ]
 Capitolo 4.
@@ -1718,17 +1726,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--11
 
  []
 
-[23]) [24
+[25]) [26
 
-] (tesi.gls) (tesi.acr [25
+] (tesi.gls) (tesi.acr [27
 
-
-] [26
-
-]) (inizio-fine/bibliografia.tex
-[27
 
 ] [28
+
+]) (inizio-fine/bibliografia.tex
+[29
+
+] [30
 
 ]
 Overfull \hbox (22.84113pt too wide) in paragraph at lines 17--17
@@ -1744,7 +1752,7 @@ Overfull \hbox (27.30283pt too wide) in paragraph at lines 17--17
 : / / martinfowler . com / articles / microservices .
  []
 
-) [29
+) [31
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 137.
@@ -1757,11 +1765,11 @@ Package logreq Info: Writing requests to 'tesi.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26321 strings out of 493328
- 445566 string characters out of 3139118
- 1025792 words of memory out of 3000000
- 29040 multiletter control sequences out of 15000+200000
- 26738 words of font info for 116 fonts, out of 3000000 for 9000
+ 26344 strings out of 493328
+ 445979 string characters out of 3139118
+ 1026798 words of memory out of 3000000
+ 29050 multiletter control sequences out of 15000+200000
+ 27153 words of font info for 120 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  61i,7n,122p,1920b,1462s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/apetrov/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/cm-super/cm-supe
@@ -1787,10 +1795,10 @@ ype1/public/cm-super/sfsl1200.pfb><C:/Users/apetrov/AppData/Roaming/MiKTeX/2.9/
 fonts/type1/public/cm-super/sfti1000.pfb><C:/Users/apetrov/AppData/Roaming/MiKT
 eX/2.9/fonts/type1/public/cm-super/sfti1200.pfb><C:/Users/apetrov/AppData/Roami
 ng/MiKTeX/2.9/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on C:\Users\apetrov\Desktop\Tesi\tesi.pdf (37 pages, 2698269 byt
+Output written on C:\Users\apetrov\Desktop\Tesi\tesi.pdf (39 pages, 2734738 byt
 es).
 PDF statistics:
- 682 PDF objects out of 1000 (max. 8388607)
- 143 named destinations out of 1000 (max. 500000)
- 30694 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 692 PDF objects out of 1000 (max. 8388607)
+ 146 named destinations out of 1000 (max. 500000)
+ 30704 words of extra memory for PDF output out of 35830 (max. 10000000)
 

@@ -30,15 +30,19 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {2.1}{\ignorespaces Sia gli sviluppatori che i professionisti IT sono portatori di valore: un feedback che coinvolge ambe le parti \IeC {\`e} essenziale. Immagine tratta da: http://bit.ly/2rM9lBQ.\relax }}{13}{figure.caption.20}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Il DevOps abilit\IeC {\`a} l'automazione del processo di rilascio del software e i cambi dell'infrastruttura IT. Immagine tratta da: http://bit.ly/2rsw9nm.\relax }}{14}{figure.caption.21}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Il DevOps abilita l'automazione del processo di rilascio del software e i cambi dell'infrastruttura IT. Immagine tratta da: http://bit.ly/2rsw9nm.\relax }}{13}{figure.caption.21}
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {2.3}{\ignorespaces Esempio di un sistema a microservizi. Immagine tratta da: http://bit.ly/2qNXKxj.\relax }}{15}{figure.caption.22}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.4}{\ignorespaces I microservizi permettono di scalare orizzontalmente per reggere ai pi\IeC {\`u} esigenti carichi di lavoro. Immagine tratta da: http://bit.ly/2qI50LR.\relax }}{16}{figure.caption.23}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces I microservizi permettono di scalare orizzontalmente per reggere ai pi\IeC {\`u} esigenti carichi di lavoro. Immagine tratta da: http://bit.ly/2qI50LR.\relax }}{15}{figure.caption.23}
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {2.5}{\ignorespaces Le parti costituenti la piattaforma Docker sono: il demone, il client e il registry Docker. Immagine tratta da: http://bit.ly/2rmkt7g.\relax }}{18}{figure.caption.24}
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {2.6}{\ignorespaces Le componenti architetturali di Kubernetes sono: API server, Scheduler, Replication Contoller, Kubelet, Kube proxy, Database Etcd. Immagine tratta da: http://bit.ly/2s4eKUR.\relax }}{19}{figure.caption.25}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Vista di alto livello del meccanismo di partizione dei dati immagazzinati in Elasticsearch. Immagine tratta da: http://bit.ly/2r0HTQL.\relax }}{20}{figure.caption.26}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Vista di alto livello del legame sussistente inter componente. Il verso della freccia nell'immagine indica una dipendenza.\relax }}{20}{figure.caption.27}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
