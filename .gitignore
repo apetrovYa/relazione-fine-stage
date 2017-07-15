@@ -1,0 +1,17 @@
+# Il presente progetto tratta il contenuto della Relazione di Fine Stage.
+# L'autore del contenuto raccolto nella presente directory e sotto directory
+# è Andrei Petrov.
+
+# Questo file presenta una lista di estensioni di file che non devono essere 
+# tracciati dallo strumento di versionamento Git.
+
+*.acn
+*.acr
+*.bcf
+*.blg
+*.ist
+*.lof
+*.log
+*.lot
+*.tcp
+
