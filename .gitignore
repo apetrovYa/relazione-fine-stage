@@ -5,13 +5,22 @@
 # Questo file presenta una lista di estensioni di file che non devono essere 
 # tracciati dallo strumento di versionamento Git.
 
-*.acn
-*.acr
-*.bcf
-*.blg
-*.ist
-*.lof
-*.log
-*.lot
-*.tcp
-
+*.sc 
+*.acn 
+*.acr 
+*.alg 
+*.aux 
+*.bbl 
+*.bcf 
+*.blg 
+*.glg 
+*.glo 
+*.gls
+*.ist 
+*.lof 
+*.log 
+*.lot 
+*.run.xml 
+*.synctex 
+*.toc 
+*-frn.tex
