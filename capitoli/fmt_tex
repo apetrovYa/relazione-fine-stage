@@ -1,0 +1,6 @@
+#!/bin/sh
+
+
+
+fold -w 80 -s $1 > temp.txt ; cat temp.txt > $1 ; rm temp.txt 
+
