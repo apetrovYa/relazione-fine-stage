@@ -15,5 +15,6 @@
 *.lot 
 *.run.xml 
 *.synctex 
-*.toc 
-*-frn.tex
+*.toc
+*.swp
+*.gz
