@@ -3,24 +3,36 @@
 % !TEX root = ../tesi.tex
 % !TEX spellcheck = it-IT
 
-%**************************************************************
 \chapter{Valutazioni retrospettive}
 \label{cap:valutazioni-retrospettive}
-\textbf{TODO: Aggiungere sintesi al capitolo}\\
-%**************************************************************
-
-%\intro{Aggiungere abstract}\\
-
 \section{Obiettivi raggiunti}
-
 \section{Problematiche riscontrate}
 
+%Svolgendo quest'attività di formazione ho riscontrato 
+%alcuni comportamenti anomali del cluster Elasticsearch. 
+%Spesso, in seguito ad aggiunte oppure rimozioni di nodi a 
+%caldo sul cluster Elasticsearch, 
+%ottenevo degli insiemi di cluster disgiunti e i nodi 
+%membri di un insieme erano incapaci di comunicare con i nodi 
+%dell'altro insieme. In seguito a qualche 
+%approfondimento, ho scoperto che il problema era dovuto
+%a una mia mal organizzazione della topologia del cluster 
+%e suddivisione dei ruoli tra i nodi Elasticsearch. 
+%Infatti, spesso i nodi non riuscivano ad ottenere 
+%un consenso di maggioranza a favore del nuovo leader del gruppo, 
+%in seguito le operazioni di modifica della topologia del cluster.
+
+%La causa del problema è la seguente: aggiungendo oppure rimuovendo un 
+%nodo al cluster, il quorum (insieme di membri costituenti un gruppo) 
+%risultante incomincia un'attività di elezione del nuovo leader del gruppo. 
+%Gestendo erroneamente i ruoli interni del cluster, la votazione per 
+%eleggere un nuovo leader non porta un risultato univoco e i nodi formano 
+%sottoinsiemi disgiunti. Così, ciascun insieme elegge un proprio leader
+%tramite il voto della maggioranza.  
+%Elasticsearch utilizza il paradigma Master-Slave di calcolo e 
+%offre diverse tipologie di nodi. 
+
+
 \section{Bilancio formativo}
-\subsection{Il prima}
-\subsection{Il dopo}
-
 \section{Valutazione critica del Corso di Laurea}
-
-
-
 \newpage

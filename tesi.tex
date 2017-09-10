@@ -70,8 +70,16 @@
 
 \usepackage[italian]{varioref}          % riferimenti completi della pagina
 
-\usepackage[dvipsnames]{xcolor}         % colori
+\usepackage[dvipsnames,table]{xcolor}         % colori
 
+\usepackage{pgf-pie}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepackage{makeidx}
+\usepackage{caption}
+\usepackage{colortbl}
+\usepackage{multirow}
+\usepackage{color}
 \usepackage{booktabs}                   % tabelle                                       
 \usepackage{tabularx}                   % tabelle di larghezza prefissata                                    
 \usepackage{longtable}                  % tabelle su più pagine                                        
@@ -92,6 +100,44 @@
                                         % 1. compilare una prima volta tesi.tex;
                                         % 2. eseguire: biber tesi
                                         % 3. compilare ancora tesi.tex.
+
+\definecolor{red}{rgb}{1.0, 0.0, 0.0} %http://latexcolor.com/
+\definecolor{blue-violet}{rgb}{0.54, 0.17, 0.89}
+\definecolor{blush}{rgb}{0.87, 0.36, 0.51}
+\definecolor{glaucous}{rgb}{0.38, 0.51, 0.71}
+\definecolor{lightcornflowerblue}{rgb}{0.6, 0.81, 0.93}
+\definecolor{moonstoneblue}{rgb}{0.45, 0.66, 0.76}
+\definecolor{darkcandyapplered}{rgb}{0.64, 0.0, 0.0}
+\definecolor{green}{rgb}{0.01, 0.75, 0.24}
+\definecolor{coquelicot}{rgb}{1.0, 0.22, 0.0}
+\definecolor{dbscan}{HTML}{ABDDD4}
+\definecolor{constructCluster}{HTML}{2B83BA}
+\definecolor{storeClusterComponent}{rgb}{0.91, 0.41, 0.17}
+\definecolor{light-gray}{gray}{0.50}
+\definecolor{candyapplered}{rgb}{1.0, 0.03, 0.0}
+\definecolor{amber}{rgb}{1.0, 0.75, 0.0}
+\definecolor{burntorange}{rgb}{0.8, 0.33, 0.0}
+\definecolor{flame}{rgb}{0.89, 0.35, 0.13}
+\definecolor{lava}{rgb}{0.81, 0.06, 0.13}
+\definecolor{laserlemon}{rgb}{1.0, 1.0, 0.13}
+\definecolor{mediumspringgreen}{rgb}{0.0, 0.98, 0.6}
+\definecolor{palecopper}{rgb}{0.85, 0.54, 0.4}
+\definecolor{alizarin}{rgb}{0.82, 0.1, 0.26}
+\definecolor{atomictangerine}{rgb}{1.0, 0.6, 0.4}
+\definecolor{ashgrey}{rgb}{0.7, 0.75, 0.71}
+\definecolor{beaver}{rgb}{0.62, 0.51, 0.44}
+\definecolor{burlywood}{rgb}{0.87, 0.72, 0.53}
+\definecolor{cadet}{rgb}{0.33, 0.41, 0.47}
+\definecolor{charcoal}{rgb}{0.21, 0.27, 0.31}
+\definecolor{darkpastelblue}{rgb}{0.47, 0.62, 0.8}
+\definecolor{blue-violet}{rgb}{0.54, 0.17, 0.89}
+\definecolor{blush}{rgb}{0.87, 0.36, 0.51}
+\definecolor{glaucous}{rgb}{0.38, 0.51, 0.71}
+\definecolor{lightcornflowerblue}{rgb}{0.6, 0.81, 0.93}
+\definecolor{moonstoneblue}{rgb}{0.45, 0.66, 0.76}
+
+
+
 
 \input{tesi-config}                     % file con le impostazioni personali
 
